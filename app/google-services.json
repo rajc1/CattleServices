@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "336124678799",
+    "firebase_url": "https://cattleservices-8d1d2.firebaseio.com",
+    "project_id": "cattleservices-8d1d2",
+    "storage_bucket": "cattleservices-8d1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336124678799:android:5b9740f313690606",
+        "android_client_info": {
+          "package_name": "com.example.chetanrajjain.cattleservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336124678799-jfuf0v5l8q9krkrkje978ch4pvg1svfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAZdVB-wh9mXMzYxcv5nrnZfrWWpywvtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
